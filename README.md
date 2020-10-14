@@ -17,3 +17,5 @@ For those who using VM: Do Not use a mount path
 ```bash
 docker-compose up -d
 ```
+
+CAUTION: DO NOT explore your service on internet WITHOUT authentication!
